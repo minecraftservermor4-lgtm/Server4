@@ -118,6 +118,7 @@
       "librarian": "2025-08-10 18:02:49 +0000",
       "shepherd": "2025-08-10 18:14:27 +0000",
       "weaponsmith": "2025-08-10 17:47:13 +0000",
+      "miner": "2025-08-11 01:26:00 +0000",
       "armorer": "2025-08-10 17:53:27 +0000",
       "farmer": "2025-08-10 17:56:01 +0000"
     },
@@ -144,6 +145,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "grindstone": "2025-08-10 17:57:50 +0000",
+      "smithingtable": "2025-08-11 01:25:40 +0000",
       "loom": "2025-08-10 18:11:41 +0000"
     },
     "done": false
@@ -181,6 +183,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-08-11 01:26:33 +0000",
       "minecraft:enderman": "2025-08-10 18:04:52 +0000",
       "quark:foxhound": "2025-08-10 18:25:56 +0000"
     },
@@ -201,6 +204,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-08-10 18:29:53 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/digger_man": {
+    "criteria": {
+      "cretaceous_fossil": "2025-08-11 01:28:50 +0000"
     },
     "done": true
   },
