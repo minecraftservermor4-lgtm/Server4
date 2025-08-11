@@ -423,3 +423,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [11Aug2025 15:50:07.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol has made the advancement [Digging Dinosaurs]
 [11Aug2025 16:04:41.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol has reached the goal [Workout Session]
 [11Aug2025 16:05:51.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> 85
+[11Aug2025 16:25:08.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[11Aug2025 16:25:08.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
