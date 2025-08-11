@@ -412,3 +412,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [11Aug2025 22:58:48.389] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
 [11Aug2025 22:59:02.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.157.203.231:58301] logged in with entity id 76 at (659.1025764235617, 86.0, 274.858989754783)
 [11Aug2025 22:59:02.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg joined the game
+[11Aug2025 23:12:18.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: natasha[/127.57.230.156:37313] logged in with entity id 3781 at (663.0586865457324, 90.0, 303.5658987323407)
+[11Aug2025 23:12:18.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha joined the game
+[11Aug2025 23:17:02.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> meti mi espada en tu cosa rara
+[11Aug2025 23:17:09.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> no la devuelve ;C
+[11Aug2025 23:17:18.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> q cosa rara?
+[11Aug2025 23:17:23.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> esta
+[11Aug2025 23:17:31.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> ya va
+[11Aug2025 23:18:19.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> bueno ahora se comio tambien las papas
+[11Aug2025 23:18:36.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> esto es de Cira
+[11Aug2025 23:18:51.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> ya lo doy por perdido
+[11Aug2025 23:18:59.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> no lo toques pq se te arma la podrida
+[11Aug2025 23:19:12.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> cuando lo hizo ?
+[11Aug2025 23:19:23.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> vas a tener q esperar a que lo termina y lo suelte
+[11Aug2025 23:19:26.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> hoy
+[11Aug2025 23:21:11.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.1.26.204:59563] logged in with entity id 10191 at (682.5, 96.0, 226.5)
+[11Aug2025 23:21:11.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[11Aug2025 23:21:11.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> apagalo
+[11Aug2025 23:21:43.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> uno solo
+[11Aug2025 23:21:47.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> q pega flaco
+[11Aug2025 23:21:52.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> dos pór mujer
+[11Aug2025 23:21:57.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> por blda
+[11Aug2025 23:22:14.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> si pudiera entrar al ds talvez mo lo hubiese metido...
+[11Aug2025 23:31:26.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=685, y=94, z=257} BlockPos{x=685, y=92, z=257}
+[11Aug2025 23:32:21.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha has made the advancement [What Man Wasn't Meant to Know]
