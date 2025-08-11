@@ -113,6 +113,7 @@
   "morevillagers:all_professions_traded": {
     "criteria": {
       "toolsmith": "2025-08-10 17:54:25 +0000",
+      "cleric": "2025-08-11 02:28:52 +0000",
       "fletcher": "2025-08-10 17:49:26 +0000",
       "woodworker": "2025-08-10 17:48:55 +0000",
       "librarian": "2025-08-10 18:02:49 +0000",
@@ -184,9 +185,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-11 02:12:57 +0000",
       "minecraft:spider": "2025-08-11 01:26:33 +0000",
       "minecraft:enderman": "2025-08-10 18:04:52 +0000",
-      "quark:foxhound": "2025-08-10 18:25:56 +0000"
+      "quark:foxhound": "2025-08-10 18:25:56 +0000",
+      "minecraft:zombie": "2025-08-11 02:17:25 +0000",
+      "minecraft:zombie_villager": "2025-08-11 02:29:42 +0000"
     },
     "done": false
   },
@@ -211,6 +215,30 @@
   "prehistoricfauna:prehistoricfauna/general/digger_man": {
     "criteria": {
       "cretaceous_fossil": "2025-08-11 01:28:50 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-08-11 02:26:18 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-08-11 02:32:10 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-08-11 02:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-11 02:15:49 +0000"
     },
     "done": true
   },
