@@ -158,39 +158,21 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-08-09 03:07:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-08-09 03:32:12 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:first_trade": {
-    "criteria": {
-      "villagertrade": "2025-08-09 03:04:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-08-09 03:38:03 +0000"
-    },
-    "done": true
-  },
   "thijquint:root": {
     "criteria": {
       "tick": "2025-08-09 02:57:24 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "thijquint:anti": {
     "criteria": {
-      "entered_nether": "2025-08-09 03:07:55 +0000"
+      "tick": "2025-08-09 02:57:24 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-08-09 03:04:13 +0000"
     },
     "done": true
   },
@@ -211,27 +193,21 @@
     },
     "done": false
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-08-09 04:19:14 +0000"
-    },
-    "done": true
-  },
-  "thijquint:anti": {
-    "criteria": {
-      "tick": "2025-08-09 02:57:24 +0000"
-    },
-    "done": true
-  },
   "morevillagers:master_trade": {
     "criteria": {
       "villagertrade": "2025-08-09 03:04:13 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:nether/root": {
     "criteria": {
-      "wheat": "2025-08-09 04:21:29 +0000"
+      "entered_nether": "2025-08-09 03:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-09 03:07:55 +0000"
     },
     "done": true
   },
@@ -240,6 +216,30 @@
       "minecraft:nether_wastes": "2025-08-09 03:07:56 +0000"
     },
     "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-08-09 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-09 03:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-09 04:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-09 04:21:29 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
