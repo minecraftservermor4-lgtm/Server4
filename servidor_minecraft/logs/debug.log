@@ -8014,3 +8014,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [11Aug2025 19:27:21.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
 [11Aug2025 19:32:21.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
 [11Aug2025 19:32:21.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[11Aug2025 19:35:20.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol has made the advancement [Paleontology]
+[11Aug2025 19:37:21.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[11Aug2025 19:37:21.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[11Aug2025 19:39:27.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[11Aug2025 19:39:27.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[11Aug2025 19:42:21.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[11Aug2025 19:42:21.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3

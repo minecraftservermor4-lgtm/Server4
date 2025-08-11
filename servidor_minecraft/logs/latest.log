@@ -416,3 +416,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [11Aug2025 18:23:56.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol has made the advancement [The Copper Age]
 [11Aug2025 18:25:43.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol has made the advancement [Hot Stuff]
 [11Aug2025 19:09:19.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol has made the advancement [Big Data]
+[11Aug2025 19:35:20.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol has made the advancement [Paleontology]
+[11Aug2025 19:39:27.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[11Aug2025 19:39:27.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
