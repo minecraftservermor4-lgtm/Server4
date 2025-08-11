@@ -8312,3 +8312,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [11Aug2025 23:43:48.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
 [11Aug2025 23:45:08.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natasha lost connection: Disconnected
 [11Aug2025 23:45:08.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha left the game
+[11Aug2025 23:48:48.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[11Aug2025 23:48:48.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[11Aug2025 23:49:59.605] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.MixinSharedDepotBlockMethods from valkyrienskies-common.mixins.json into com.simibubi.create.content.logistics.depot.SharedDepotBlockMethods
+[11Aug2025 23:50:43.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg has made the advancement [The Brass Age]
+[11Aug2025 23:53:48.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[11Aug2025 23:53:48.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
