@@ -319,6 +319,13 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-08-11 18:40:17 +0000",
+      "1": "2025-08-11 18:44:57 +0000"
+    },
+    "done": true
+  },
   "create:super_glue": {
     "criteria": {
       "0": "2025-08-11 18:00:46 +0000"
@@ -328,6 +335,12 @@
   "create:funnel": {
     "criteria": {
       "0": "2025-08-11 18:05:17 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-08-11 18:40:55 +0000"
     },
     "done": true
   },
