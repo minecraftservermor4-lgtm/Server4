@@ -271,6 +271,12 @@
     },
     "done": true
   },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-08-11 16:04:41 +0000"
+    },
+    "done": true
+  },
   "create:precision_mechanism": {
     "criteria": {
       "0": "2025-08-11 15:22:49 +0000"
