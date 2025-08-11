@@ -350,6 +350,12 @@
     },
     "done": true
   },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-08-11 19:21:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-08-11 18:25:43 +0000"
@@ -359,6 +365,12 @@
   "create:copper_casing": {
     "criteria": {
       "0": "2025-08-11 18:23:56 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-08-11 19:21:26 +0000"
     },
     "done": true
   },
