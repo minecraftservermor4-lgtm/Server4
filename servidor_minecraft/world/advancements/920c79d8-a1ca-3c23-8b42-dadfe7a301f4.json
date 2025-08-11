@@ -187,6 +187,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-11 02:12:57 +0000",
       "minecraft:spider": "2025-08-11 01:26:33 +0000",
+      "minecraft:creeper": "2025-08-11 15:21:20 +0000",
       "minecraft:enderman": "2025-08-10 18:04:52 +0000",
       "quark:foxhound": "2025-08-10 18:25:56 +0000",
       "minecraft:zombie": "2025-08-11 02:17:25 +0000",
@@ -218,33 +219,9 @@
     },
     "done": true
   },
-  "create:brass": {
+  "minecraft:story/root": {
     "criteria": {
-      "0": "2025-08-11 02:26:18 +0000"
-    },
-    "done": true
-  },
-  "create:rose_quartz": {
-    "criteria": {
-      "0": "2025-08-11 02:32:10 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2025-08-11 02:15:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-08-11 02:15:49 +0000"
-    },
-    "done": true
-  },
-  "create:belt": {
-    "criteria": {
-      "0": "2025-08-11 02:43:33 +0000"
+      "crafting_table": "2025-08-11 01:58:48 +0000"
     },
     "done": true
   },
@@ -260,9 +237,57 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "create:andesite_casing": {
     "criteria": {
-      "crafting_table": "2025-08-11 01:58:48 +0000"
+      "0": "2025-08-11 02:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-11 02:15:49 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-08-11 02:26:18 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-08-11 02:32:10 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-08-11 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-08-11 15:22:49 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-08-11 15:21:02 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-08-11 15:16:40 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-08-11 15:23:51 +0000"
     },
     "done": true
   },
