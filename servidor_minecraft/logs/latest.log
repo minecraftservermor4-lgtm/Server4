@@ -480,3 +480,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [11Aug2025 03:45:11.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=623, y=91, z=272} BlockPos{x=623, y=90, z=272}
 [11Aug2025 03:47:34.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=59, z=149} BlockPos{x=134, y=60, z=148}
 [11Aug2025 03:47:34.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=59, z=149} BlockPos{x=134, y=60, z=148}
+[11Aug2025 03:57:55.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg lost connection: Disconnected
+[11Aug2025 03:57:55.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg left the game
+[11Aug2025 03:57:55.198] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Aug2025 03:58:13.597] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: xkdeco:fake/stonecutter/factory_lamp/exchange/xkdeco/factory_ceiling_lamp removed now.
+[11Aug2025 03:58:13.601] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: xkdeco:fake/stonecutter/factory_lamp/exchange/xkdeco/factory_ceiling_lamp removed now.
+[11Aug2025 03:58:13.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.225.255.79:57953] logged in with entity id 41414 at (669.6643374817204, 86.0, 287.3809699312157)
+[11Aug2025 03:58:13.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg joined the game
+[11Aug2025 04:01:28.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=95, z=265} BlockPos{x=631, y=93, z=267}
+[11Aug2025 04:01:29.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=95, z=265} BlockPos{x=631, y=93, z=267}
+[11Aug2025 04:01:29.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=95, z=265} BlockPos{x=631, y=93, z=267}
+[11Aug2025 04:01:29.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=95, z=265} BlockPos{x=631, y=93, z=267}
+[11Aug2025 04:01:29.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=95, z=265} BlockPos{x=631, y=93, z=267}
+[11Aug2025 04:01:29.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=95, z=265} BlockPos{x=631, y=93, z=267}
+[11Aug2025 04:01:29.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=95, z=265} BlockPos{x=631, y=93, z=267}
+[11Aug2025 04:01:29.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=95, z=265} BlockPos{x=631, y=93, z=267}
+[11Aug2025 04:01:59.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg lost connection: Timed out
+[11Aug2025 04:01:59.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg left the game
+[11Aug2025 04:02:17.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.157.203.231:44715] logged in with entity id 44085 at (631.2421127714678, 93.0, 253.47544213432658)
+[11Aug2025 04:02:17.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg joined the game
