@@ -445,3 +445,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [11Aug2025 02:47:17.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
 [11Aug2025 02:58:25.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: natasha[/127.57.230.156:60551] logged in with entity id 22544 at (723.483228836767, 104.0, 232.48685405376938)
 [11Aug2025 02:58:25.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha joined the game
+[11Aug2025 03:00:33.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> te fuiste de ds
+[11Aug2025 03:01:24.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> proba el canal de abajo
+[11Aug2025 03:05:12.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of natasha) moved wrongly! 0.38502395126823785
+[11Aug2025 03:05:12.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of natasha) moved wrongly! 0.3317017020311255
+[11Aug2025 03:06:15.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of natasha) moved wrongly! 0.3206359020149421
+[11Aug2025 03:06:15.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of natasha) moved wrongly! 0.2765589650769016
+[11Aug2025 03:06:15.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of natasha) moved wrongly! 0.30661634813986893
+[11Aug2025 03:06:15.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of natasha) moved wrongly! 0.27323991375033074
+[11Aug2025 03:06:15.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of natasha) moved wrongly! 0.2757183225060089
