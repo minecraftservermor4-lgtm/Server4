@@ -410,3 +410,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [11Aug2025 01:28:50.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol has made the advancement [Digger Man]
 [11Aug2025 01:30:11.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
 [11Aug2025 01:30:11.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[11Aug2025 01:39:49.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.157.203.231:39515] logged in with entity id 4234 at (682.5371281359347, 90.0, 267.3096337256545)
+[11Aug2025 01:39:49.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg joined the game
+[11Aug2025 01:45:25.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.220.248.189:33213] logged in with entity id 6822 at (553.5383720071598, 35.0, 232.25092415938443)
+[11Aug2025 01:45:25.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
