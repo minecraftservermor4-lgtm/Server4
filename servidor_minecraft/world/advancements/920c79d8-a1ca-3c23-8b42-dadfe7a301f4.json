@@ -331,5 +331,17 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-11 18:25:43 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-08-11 18:23:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
