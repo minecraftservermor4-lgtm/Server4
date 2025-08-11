@@ -454,3 +454,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [11Aug2025 03:06:15.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of natasha) moved wrongly! 0.30661634813986893
 [11Aug2025 03:06:15.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of natasha) moved wrongly! 0.27323991375033074
 [11Aug2025 03:06:15.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fedesaurio (vehicle of natasha) moved wrongly! 0.2757183225060089
+[11Aug2025 03:26:32.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=126, y=90, z=76} BlockPos{x=125, y=89, z=76}
