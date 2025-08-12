@@ -8972,3 +8972,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [12Aug2025 01:38:40.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha joined the game
 [12Aug2025 01:38:48.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
 [12Aug2025 01:38:48.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[12Aug2025 01:39:34.320] [Netty Epoll Server IO #5/DEBUG] [org.valkyrienskies.core.impl.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.impl.networking.NetworkChannel@d41ecf0, id=1, name=SimplePacket - class org.valkyrienskies.core.impl.networking.impl.PacketRequestUdp)
+[12Aug2025 01:40:43.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> ya solto mi espada ;C
+[12Aug2025 01:40:47.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> ??
+[12Aug2025 01:41:08.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> che y este muro ??
+[12Aug2025 01:41:17.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> estuvo trump aca o que
+[12Aug2025 01:41:25.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> es el helipuerto
+[12Aug2025 01:41:34.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> a chiquita
+[12Aug2025 01:43:48.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[12Aug2025 01:43:48.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[12Aug2025 01:48:28.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> sigo esperando el ascensor
+[12Aug2025 01:48:35.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> me siento una cabra
+[12Aug2025 01:48:46.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> veni a donde estoy yo
+[12Aug2025 01:48:48.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[12Aug2025 01:48:48.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[12Aug2025 01:49:10.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> shi ;)
+[12Aug2025 01:49:27.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> no a la violencia
+[12Aug2025 01:49:56.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> veni
+[12Aug2025 01:50:11.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> naaaaaaaaa
+[12Aug2025 01:50:18.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> esta lento pero estoy en eso
+[12Aug2025 01:50:27.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> epicop
+[12Aug2025 01:50:35.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> cambias el piso con la rueda del mouse
+[12Aug2025 01:53:48.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[12Aug2025 01:53:48.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[12Aug2025 01:54:07.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> tenes un librito ?
+[12Aug2025 01:54:14.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> no
+[12Aug2025 01:54:34.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> si escucho
+[12Aug2025 01:54:46.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> graciela
+[12Aug2025 01:55:41.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> cine
+[12Aug2025 01:55:41.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> y sigue
+[12Aug2025 01:58:39.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> el yunque esta por quedarla
+[12Aug2025 01:58:48.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[12Aug2025 01:58:48.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
