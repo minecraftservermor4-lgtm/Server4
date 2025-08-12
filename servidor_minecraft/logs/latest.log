@@ -417,3 +417,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [12Aug2025 22:23:41.926] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
 [12Aug2025 22:24:20.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.157.203.231:54091] logged in with entity id 78 at (669.7864448912483, 90.0, 302.16287475537)
 [12Aug2025 22:24:20.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg joined the game
+[12Aug2025 23:52:46.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg lost connection: Disconnected
+[12Aug2025 23:52:46.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg left the game
+[12Aug2025 23:52:46.132] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
