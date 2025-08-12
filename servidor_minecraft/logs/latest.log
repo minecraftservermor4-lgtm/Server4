@@ -1,1 +1,10 @@
 [12Aug2025 00:17:15.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> innnnsolito
+[12Aug2025 00:20:32.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[12Aug2025 00:20:32.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[12Aug2025 00:20:32.959] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Aug2025 00:20:49.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.1.26.204:58269] logged in with entity id 25346 at (669.3638723293884, 85.0, 217.3739341224559)
+[12Aug2025 00:20:49.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[12Aug2025 00:39:48.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> ahi va
+[12Aug2025 00:39:56.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> bardea a tu hermano
+[12Aug2025 00:40:05.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> ESTANDO VO ACÁ
+[12Aug2025 00:43:21.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> 2761
