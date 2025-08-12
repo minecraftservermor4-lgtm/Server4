@@ -77,3 +77,29 @@
 [12Aug2025 02:42:14.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> metete
 [12Aug2025 02:42:17.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Morangg> sefue
 [12Aug2025 02:42:33.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natasha> gracioso che
+[12Aug2025 03:34:43.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg lost connection: Disconnected
+[12Aug2025 03:34:43.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg left the game
+[12Aug2025 03:34:45.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natasha lost connection: Disconnected
+[12Aug2025 03:34:45.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natasha left the game
+[12Aug2025 03:34:46.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[12Aug2025 03:34:46.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[12Aug2025 03:34:54.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Aug2025 03:34:54.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Aug2025 03:34:54.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Aug2025 03:34:54.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Aug2025 03:34:54.298] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[12Aug2025 03:34:54.299] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[12Aug2025 03:34:54.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:overworld
+[12Aug2025 03:34:54.398] [DefaultDispatcher-worker-4/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[12Aug2025 03:34:54.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:cretaceous
+[12Aug2025 03:34:54.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_end
+[12Aug2025 03:34:54.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:triassic
+[12Aug2025 03:34:54.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:jurassic
+[12Aug2025 03:34:54.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_nether
+[12Aug2025 03:34:54.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Aug2025 03:34:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[12Aug2025 03:34:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Aug2025 03:34:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[12Aug2025 03:34:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[12Aug2025 03:34:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Aug2025 03:34:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
