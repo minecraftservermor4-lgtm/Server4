@@ -422,3 +422,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [13Aug2025 01:58:06.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg left the game
 [13Aug2025 02:08:02.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.157.203.231:34837] logged in with entity id 6146 at (684.7585222023308, 90.0, 286.1169065896205)
 [13Aug2025 02:08:02.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg joined the game
+[13Aug2025 02:36:05.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.91.198.30:49995] logged in with entity id 12899 at (669.1333913108053, 90.0, 263.8181878129111)
+[13Aug2025 02:36:05.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[13Aug2025 02:40:20.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> zzz
+[13Aug2025 02:41:00.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg has reached the goal [This Belongs in a Museum]
+[13Aug2025 02:56:03.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg was doomed to fall by lol

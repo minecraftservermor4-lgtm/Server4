@@ -179,8 +179,10 @@
       "minecraft:spider": "2025-08-05 02:38:15 +0000",
       "minecraft:creeper": "2025-08-05 02:23:20 +0000",
       "minecraft:slime": "2025-08-13 01:43:48 +0000",
+      "quark:forgotten": "2025-08-13 02:40:59 +0000",
       "minecraft:witch": "2025-08-05 02:49:20 +0000",
       "minecraft:wither_skeleton": "2025-08-08 18:55:02 +0000",
+      "minecraft:cave_spider": "2025-08-13 02:32:09 +0000",
       "minecraft:enderman": "2025-08-08 19:55:41 +0000",
       "minecraft:zombie": "2025-08-05 02:15:29 +0000"
     },
@@ -491,6 +493,12 @@
   "create:super_glue": {
     "criteria": {
       "0": "2025-08-12 00:11:46 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-08-13 02:41:00 +0000"
     },
     "done": true
   },
