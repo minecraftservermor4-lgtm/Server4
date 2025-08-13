@@ -9381,3 +9381,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [13Aug2025 16:12:49.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
 [13Aug2025 16:15:59.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Timed out
 [13Aug2025 16:15:59.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[13Aug2025 16:17:49.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[13Aug2025 16:17:49.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[13Aug2025 16:22:49.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[13Aug2025 16:22:49.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[13Aug2025 16:27:49.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[13Aug2025 16:27:49.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
