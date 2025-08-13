@@ -427,3 +427,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [13Aug2025 02:40:20.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> zzz
 [13Aug2025 02:41:00.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg has reached the goal [This Belongs in a Museum]
 [13Aug2025 02:56:03.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg was doomed to fall by lol
+[13Aug2025 03:14:10.451] [Server thread/WARN] [sophisticatedcore/]: Too much loot to add to container. Overflow is voided.
