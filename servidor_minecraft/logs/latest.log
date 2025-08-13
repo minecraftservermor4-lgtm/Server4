@@ -420,3 +420,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [12Aug2025 23:52:46.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg lost connection: Disconnected
 [12Aug2025 23:52:46.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg left the game
 [12Aug2025 23:52:46.132] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Aug2025 23:59:45.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.157.203.231:45929] logged in with entity id 258839 at (653.0065888019182, 96.0, 269.7659856801926)
+[12Aug2025 23:59:45.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg joined the game
