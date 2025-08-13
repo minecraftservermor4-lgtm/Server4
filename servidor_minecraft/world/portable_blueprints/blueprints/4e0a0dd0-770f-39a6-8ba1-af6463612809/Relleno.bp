@@ -1,0 +1,69 @@
+{
+  "nome": "Relleno",
+  "altezza": 6,
+  "lunghezzaX": 7,
+  "lunghezzaZ": 1,
+  "offset": {
+    "f_123285_": 0,
+    "f_123286_": 0,
+    "f_123289_": 0
+  },
+  "BlocksData": {
+    "0": {
+      "x\u003d4,y\u003d0,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d3,y\u003d0,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d2,y\u003d0,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d5,y\u003d0,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d6,y\u003d0,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d1,y\u003d0,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d0,y\u003d0,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull"
+    },
+    "1": {
+      "x\u003d0,y\u003d1,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d5,y\u003d1,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d2,y\u003d1,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d3,y\u003d1,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d6,y\u003d1,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d1,y\u003d1,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d4,y\u003d1,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull"
+    },
+    "2": {
+      "x\u003d5,y\u003d2,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d0,y\u003d2,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d6,y\u003d2,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d2,y\u003d2,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d3,y\u003d2,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d4,y\u003d2,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d1,y\u003d2,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull"
+    },
+    "3": {
+      "x\u003d6,y\u003d3,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d2,y\u003d3,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d5,y\u003d3,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d0,y\u003d3,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d3,y\u003d3,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d1,y\u003d3,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d4,y\u003d3,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull"
+    },
+    "4": {
+      "x\u003d2,y\u003d4,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d6,y\u003d4,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d3,y\u003d4,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d0,y\u003d4,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d5,y\u003d4,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d1,y\u003d4,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d4,y\u003d4,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull"
+    },
+    "5": {
+      "x\u003d6,y\u003d5,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d0,y\u003d5,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d3,y\u003d5,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d1,y\u003d5,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d5,y\u003d5,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d2,y\u003d5,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull",
+      "x\u003d4,y\u003d5,z\u003d0": "\u003cbid\u003eminecraft:cobblestone\u003c/bid\u003enull"
+    }
+  },
+  "NotSolidBlocksData": {},
+  "BlocksNBT": {}
+}
