@@ -417,6 +417,18 @@
     },
     "done": true
   },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2025-08-13 04:27:15 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-08-13 04:26:06 +0000"
+    },
+    "done": true
+  },
   "jurassic_additions:paleobotany": {
     "criteria": {
       "paleobotany_0": "2025-08-13 03:28:38 +0000"
