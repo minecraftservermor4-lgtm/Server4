@@ -420,3 +420,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [13Aug2025 21:52:43.414] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
 [13Aug2025 21:53:17.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.157.203.231:52845] logged in with entity id 76 at (692.2507156220647, 96.0, 261.41653449688516)
 [13Aug2025 21:53:17.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg joined the game
+[13Aug2025 22:06:13.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=709, y=99, z=257} BlockPos{x=709, y=98, z=257}
