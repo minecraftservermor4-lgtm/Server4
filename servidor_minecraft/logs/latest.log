@@ -418,3 +418,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [14Aug2025 01:09:14.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg joined the game
 [14Aug2025 01:09:16.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [14Aug2025 01:46:10.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=639, y=90, z=288} BlockPos{x=639, y=88, z=288}
+[14Aug2025 02:49:19.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg has made the advancement [Dino Plushies]
