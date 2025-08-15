@@ -414,3 +414,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Aug2025 00:02:57.282] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
 [15Aug2025 00:03:35.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.93.157.144:59259] logged in with entity id 76 at (679.5943135366582, 95.0, 216.5625279391047)
 [15Aug2025 00:03:35.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[15Aug2025 00:14:18.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[15Aug2025 00:14:18.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game

@@ -7973,3 +7973,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Aug2025 00:05:33.587] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$getFluidStateRedirectPathType$0(Lcom/llamalad7/mixinextras/injector/wrapoperation/Operation;Lnet/minecraft/world/level/Level;[Lnet/minecraft/world/level/material/FluidState;DDD)V to mdaf5ce2$lambda$getFluidStateRedirectPathType$0$3 in valkyrienskies-common.mixins.json:feature.ai.node_evaluator.SwimNodeEvaluatorMixin
 [15Aug2025 00:07:57.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
 [15Aug2025 00:07:57.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[15Aug2025 00:12:57.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[15Aug2025 00:12:57.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[15Aug2025 00:14:18.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[15Aug2025 00:14:18.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[15Aug2025 00:17:57.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[15Aug2025 00:17:57.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
